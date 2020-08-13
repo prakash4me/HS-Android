@@ -1,8 +1,8 @@
 package com.app.firebaseapp;
 
 public class Settings {
-    public static final String HOST = "hoofstep.app/";//endparsehost
-    public static final String HOME_URL = "https://hoofstep.app/";//endparsehomeurl
+    public static final String HOST = "hoofstep-dev/";//endparsehost
+    public static final String HOME_URL = "https://hoofstep-dev1.firebaseapp.com/";//endparsehomeurl
     public static final String USER_AGENT = "Mozilla/5.0 (Linux; Android 9; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Mobile Safari/537.36 Convertify hsnativeandroid";
     public static final int SCREEN_ORIENTATION = 0; // 0=BOTH, 1=PORTRAIT, 2=LANDSCAPE
     public static final boolean LOADING_SIGN = true;
